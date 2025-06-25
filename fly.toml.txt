@@ -1,0 +1,5 @@
+app = "supermarket-bot"  # bu Fly'da ilova nomi, o'zingiz xohlagan nom bo'lishi mumkin
+primary_region = "ams"   # server joylashuvi ("ams" - Amsterdam, "fra" - Frankfurt, "sin" - Singapore)
+
+[env]
+  PORT = "8080"          # majburiy bo'lishi shart emas polling uchun
